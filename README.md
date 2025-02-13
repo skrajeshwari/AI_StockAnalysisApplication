@@ -1,5 +1,5 @@
 # stocks-project
-This is a repo for GenAI M5 AST2
+This is a repository for Stock Prices Insights project.
 
 ## Steps to Follow
 
