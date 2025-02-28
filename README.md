@@ -1,5 +1,10 @@
-# stocks-project
-This is a repository for Stock Prices Insights project.
+# Stock insights application
+
+This is a repository for the Stock Prices Insights project. In this project, we are:
+
+-> loading the data from pickle files(constituent_stock_prices.pkl, constituent_stock_fundamentals.pkl).
+-> storing the data in a SQLite database (Tables: stock_prices, income_statement, balancesheet_statement, cashflow_statement).
+-> using LLMs to create chains for querying insights from this database.
 
 ## Steps to Follow
 
