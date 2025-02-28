@@ -1,6 +1,7 @@
-# Stock insights application
+# Leveraging LLMs for Querying Structured Financial Data
 
-This is a repository for the Stock Prices Insights project. 
+This is the Stock Prices Analysis project that demonstrates how LLMs can interpret user queries, generate SQL queries, and provide insights automatically. 
+The core aim is to integrate LLMs with structured data for dynamically simulating complex query-response flows and generating insights.
 
 Project Flow: Each query a user makes will follow one of three paths, depending on the nature of the request. The flow is designed to simulate real-world interaction with LLM-driven systems but is tailored to demonstrate how the technology works with structured data.
 
