@@ -18,7 +18,7 @@ The chatbot application is built with Chainlit and allows users to ask questions
 
 2. Start a Codespace by going to `Code` dropdown > Select `Codespaces` tab > Click on `Create codespace on main`
 
-3. Create and Activate a virtual environment:
+3. Create and activate a virtual environment:
    ```
    python -m venv venv
    source venv/bin/activate
@@ -39,7 +39,7 @@ The chatbot application is built with Chainlit and allows users to ask questions
    chainlit run app.py
    ```
 
-7. Once the application is running, access it in browser
+7. Once the application is running, access it in the browser
 
 8. Stop the application by pressing `Ctrl + C`
 
